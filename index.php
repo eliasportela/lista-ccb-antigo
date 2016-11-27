@@ -1,6 +1,7 @@
 <?php session_start(); ?>
 <?php
     include("php/conexao.php");
+    $cabecalho = "Lista CCB | Inicial";
     include("cabecalho_usuario.php");?>
 
     <header>

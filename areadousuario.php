@@ -53,7 +53,7 @@ if (isset($_POST['submit'])) {
 ?>
 
 <?php 
-    $nome_pagina = "Área do Usuário";
+    $cabecalho = "Lista CCB | Login";
     include("cabecalho_usuario.php"); ?>
     <section class="bg-primary">
     <div class="container">
