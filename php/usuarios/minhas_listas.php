@@ -1,6 +1,6 @@
 							<ul class="text-right">
 								<li>
-					    			<a href="../cadastro/nova_lista.php" class="btn btn-primary btn-xl sr-button">Nova Lista</a>
+					    			<a href="../listas/nova_lista.php" class="btn btn-primary btn-xl sr-button"><i class="fa fa-plus fa-1x"> Nova Lista</i></a>
 					    		</li>
 					    	</ul>
 							<table class="table">
