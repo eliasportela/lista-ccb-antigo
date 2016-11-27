@@ -9,7 +9,7 @@
     <meta name="description" content="Lista de Batizmo e cultos da Congregação Cristã no Brasil">
     <meta name="author" content="Equipe Anonimos da CCB">
 
-    <title><?php echo $cabecalho; ?></title>
+    <title><?php echo $title; ?></title>
 
     <!-- Bootstrap Core CSS -->
     <link href="http://www.listaccb.com/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
