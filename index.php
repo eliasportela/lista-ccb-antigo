@@ -8,7 +8,7 @@
             <div class="header-content-inner">
                 <h1 id="homeHeading">Lista CCB</h1>
                 <hr>
-                <p>Lista CCB irá te ajudar encontrar serviços de cultos em apenas alguns filtros<br>Insira as informções e clique em pesquisar</p>
+                <p>Lista CCB irá te ajudar encontrar serviços de cultos em apenas alguns filtros<br>Insira as informações e clique em pesquisar</p>
                 <a href="#indexpesquisa" class="btn btn-primary btn-xl page-scroll">Começar</a>
             </div>
         </div>
