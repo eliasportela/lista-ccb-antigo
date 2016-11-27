@@ -83,21 +83,20 @@
 					    			</div>
 					    		</div>	
 			    			</div>
-		    				<div class="col-md-2"></div>
-		    			</div>
-		    		</div>
-		    		<br><br><br>		
-						<!--Inicio da Tabela-->
-						<?php 
-							include("minhas_listas.php");
-						 ?>
-						<!--Fim da Tabela-->						
+			    			<div class="row">
+		    					<br><br><br>		
+								<!--Inicio da Tabela-->
+								<?php 
+									include("minhas_listas.php");
+								 ?>
+								<!--Fim da Tabela-->						
+							</div>
 						</div>	
-						<div class="col-md-1"></div>
+						<div class="col-md-2"></div>
 					</div>
-					<hr class="light">		
-				</div>
+					<hr class="light">
+				</div>	
 			</div>
 		</div>
-    </section>
+	</section>
 	<!-- devs-->

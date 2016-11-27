@@ -1,3 +1,8 @@
+							<ul class="text-right">
+								<li>
+					    			<a href="../cadastro/nova_lista.php" class="btn btn-primary btn-xl sr-button">Nova Lista</a>
+					    		</li>
+					    	</ul>
 							<table class="table">
 								<tr>
 									<th>Data da Lista</th>
