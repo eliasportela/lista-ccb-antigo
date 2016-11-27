@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Lista de Batizmo e cultos da Congregação Cristã no Brasil">
+    <meta name="description" content="Lista CCB é um site de busca onde poderá ser econtrado as listas recentes de Batizmo, Reuniões para Mocidade, Santa Ceias, Ensaios Regionais e muito mais da Congregação Cristã no Brasil. Escolha os filtos, clique em pesquisar, e serão listas os resultados da sua pesquisa.">
     <meta name="author" content="Equipe Anonimos da CCB">
 
     <title><?php echo $title; ?></title>
